@@ -1,8 +1,10 @@
 # This is My Mini Plotter 2 with a Single PCB  
 ![3D Top](Images/Tims_Mini_Plotter_2_005.png)  
 ## This is a Board to control two basic bipolar stepper motors.  
+![Mini Plotter](Images/Tims_Mini_Plotter_2_004.png)  
+## *The Board fitted to the Mini Plotter.*  
 ### Files for [KiCAD EDA](https://www.kicad.org/)  
-There is <span style="font-size: large;">**"Mini Plotter 2 Full.kicad_pcb.zip"**</span> file  
+There is [<span style="font-size: large;">**"Mini Plotter 2 Full.kicad_pcb.zip"**</span>](bom/) file  
 * This can be used when **"Plot Files"** asked for at 
 <sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> 
 when ordering 10 PCBs for $5  
@@ -32,7 +34,7 @@ Other Parts required are:
 ## About  
 This is a PCBWay PCB Version of mini plotter I did quit a while ago, my original mini plotter I made of standard modules I bought and a home made PCB.
 
-Details of the original can be found at my Blog here: [Tim's Mini Plotter 2 \(tims-mini-plotter2.blogspot.com\)](https://tims-mini-plotter2.blogspot.com/2019/01/tims-mini-plotter-2-this-is-new-project.html)
+Details of the original can be found at my Blog here: [Tim's Mini Plotter 2 (tims-mini-plotter2.blogspot.com)](https://tims-mini-plotter2.blogspot.com/2019/01/tims-mini-plotter-2-this-is-new-project.html)
 
 So it is the PCBWay PCB version.  
 PCBWay do a great offer in prototyping PCBs, so I decided to make a version based around a single PCB.  
