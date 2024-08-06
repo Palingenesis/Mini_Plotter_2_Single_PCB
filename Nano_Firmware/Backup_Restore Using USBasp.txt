@@ -1,0 +1,27 @@
+
+This is instruction for backing up and restoring data on an Arduino NANO. AKA ATMega328p
+Using AVRDUDE in the windows terminal.
+
+First thing is know where your copy of AVRDUDE is installed on your computer.
+	I am using the copy Arduino IDE uses and is installed on my E: Drive.
+	If yours is in the default on C:, you will probaly only need to change E: for C:
+	There is the location for AVRDUDE.EXE "E:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avrdude"
+	There is the location avrdude.config "E:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf"
+	
+The files created/used will be in the location your are in in the windows terminal.
+	You must be in the location the files are or you want them to be.
+	
+The file names used are:
+	backup_flash.hex
+	backup_eeprom.eep
+
+If you are backing up a specific device, I surgest renaming them to somthing relevant.
+
+Back up HEX and EEPROM (ATMega328p) with USBasp
+
+"E:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avrdude" -C"E:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -v -p m328p -c usbasp -P usb -F -U flash:r:backup_flash.hex:i -U eeprom:r:backup_eeprom.eep:i
+
+
+Restore HEX and EEPROM (ATMega328p) with USBasp
+
+"E:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avrdude.exe" -C "E:\Program Files (x86)\Arduino\hardware\tools\avr\etc\avrdude.conf" -v -p m328p -c usbasp -P usb -U flash:w:"backup_flash.hex":i -U eeprom:w:"backup_eeprom.eep":i

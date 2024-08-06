@@ -1,0 +1,14 @@
+MAINMANUAL DRAWCHOOSE PLOTSETTIN
+GSINFORESETMOVE XDRAW XMOVE YDRA
+W Y<<== BACKSPEEDTOOL--Tim's Min
+i Plotterok=== Motors Off ===Ver
+sion: Basic Gcode CommandsM03 - 
+Tool On/DownM05 - Tool Off/UpM18
+ - Motors OffSystem ResetM100 - 
+this Info messageR01 - Reset Plo
+tterBy Tim Jackson.1960=========
+=======          TYPE OF PLOTOUT
+LINETEXTCHOOSE OUTLINEA-Za-z0-9S
+YMBOLSCHOOSE A-ZCHOOSE a-zCHOOSE
+ 0-9CHOOSE SYMBOLSCHOOSE CHARACT
+ERServoLaserEndEND
