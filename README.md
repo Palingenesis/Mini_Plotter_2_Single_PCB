@@ -46,7 +46,7 @@ I wanted to give it some memory where it can store some plots, and have a menu s
 ## What I use
 I use [FreeCAD](https://www.freecad.org/)  to design my 3D Prints, and [KiCAD EDA](https://www.kicad.org/) to design my PCB.  
 Both these programs can integrate with each other. They are open source and I recommend them.  
-[KiCAD EDA](https://www.kicad.org/) also has a plugin from <sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> that makes it simple to order PCBs.
+[KiCAD EDA](https://www.kicad.org/) also has a plugin ![Plugin](Images/PCBWay_Icon.png) from <sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> that makes it simple to order PCBs.
 ## History
 My previous Mini Plotter Ver. 1 looked like this: [Version 1](https://tims-mini-plotter-1.blogspot.com/) [Version 1.3](https://www.youtube.com/watch?v=I_yTPbJcGrc&feature=youtu.be)
 ### Here is is a video of the original Mini Plotter 2 to show how it works.
