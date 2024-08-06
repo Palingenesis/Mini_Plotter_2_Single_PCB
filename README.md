@@ -4,17 +4,17 @@
 ### Files for [KiCAD EDA](https://www.kicad.org/)  
 There is <span style="font-size: large;">**"Mini Plotter 2 Full.kicad_pcb.zip"**</span> file  
 * This can be used when **"Plot Files"** asked for at 
-<sub><a href="https://www.pcbway.com/"><img src="images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> 
+<sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> 
 when ordering 10 PCBs for $5  
 * If you have <span style="font-size: large;">**[KiCAD EDA](https://www.kicad.org/)**</span>,  
-<sub><a href="https://www.pcbway.com/"><img src="images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub>
-have a Plugin ![Plugin](images/PCBWay_Icon.png) that will make things simple to order a PCB,  
-just load this project into <span style="font-size: large;">**[KiCAD EDA](https://www.kicad.org/)**</span> install the plugin click the Icon ![Plugin](images/PCBWay_Icon.png) and it will create all the nesesery files needed and take you to order a PCB 
+<sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub>
+have a Plugin ![Plugin](Images/PCBWay_Icon.png) that will make things simple to order a PCB,  
+just load this project into <span style="font-size: large;">**[KiCAD EDA](https://www.kicad.org/)**</span> install the plugin click the Icon ![Plugin](Images/PCBWay_Icon.png) and it will create all the nesesery files needed and take you to order a PCB 
 and compeate the form on 
-<sub><a href="https://www.pcbway.com/"><img src="images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> 
+<sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> 
 web site.  
   
-<a href="https://www.pcbway.com/project/shareproject/Tim_s_Mini_Plotter_2_ec46c4f8.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/Tim_s_Mini_Plotter_2_ec46c4f8.html"><img src="https://www.pcbway.com/project/img/Images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ### Files for [3D Printing](https://www.pcbway.com/rapid-prototyping/manufacture/?type=2&reffercode=TOP)  
 There is [a folder with all the STL files needed](STL/) to print the Mini Plotter.
@@ -44,7 +44,7 @@ I wanted to give it some memory where it can store some plots, and have a menu s
 ## What I use
 I use [FreeCAD](https://www.freecad.org/)  to design my 3D Prints, and [KiCAD EDA](https://www.kicad.org/) to design my PCB.  
 Both these programs can integrate with each other. They are open source and I recommend them.  
-[KiCAD EDA](https://www.kicad.org/) also has a plugin from <sub><a href="https://www.pcbway.com/"><img src="images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> that makes it simple to order PCBs.
+[KiCAD EDA](https://www.kicad.org/) also has a plugin from <sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub> that makes it simple to order PCBs.
 ## History
 My previous Mini Plotter Ver. 1 looked like this: [Version 1](https://tims-mini-plotter-1.blogspot.com/) [Version 1.3](https://www.youtube.com/watch?v=I_yTPbJcGrc&feature=youtu.be)
 ### Here is is a video of the original Mini Plotter 2 to show how it works.
@@ -89,8 +89,8 @@ The plotter runs best above 10 Volts.
 ## Assembly Of the Plotter.
 Assembly is the same as I did with the original here: [Tim's Mini Plotter 2: Assembly (tims-mini-plotter2.blogspot.com)](https://tims-mini-plotter2.blogspot.com/2019/03/assembly.html)  
 The only difference is the parts use.  
-* There is a [folder of images ](Assembly_Images/) that show how these parts go to gether.  
-* As I mentioned, this is modified to take the new Single PCB by <sub><a href="https://www.pcbway.com/"><img src="images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub>.  
+* There is a [folder of Images ](Assembly_Images/) that show how these parts go to gether.  
+* As I mentioned, this is modified to take the new Single PCB by <sub><a href="https://www.pcbway.com/"><img src="Images/PCBWay179x50.png" alt="Alt text" height="25" /></a></sub>.  
 * Please read some of the original Blog, There are things that need attention. The Screw Pad, The Linear Rod Fit.  
 ## I did some Live Streams should you want to make this.
 These are the sort of stream you click through to find the info you want.  
